@@ -106,4 +106,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/milabooot/milabooot/output/snake.svg" alt="Snake animation" />
