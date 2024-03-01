@@ -6,9 +6,11 @@
   
  <img src="https://github-readme-stats.vercel.app/api?username=MilaBooot&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Mila's Github Stats">
  &emsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MilaBooot&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=0,000000,130F40&hide_border=true" alt="Menilik" />
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MilaBooot&label=Profile%20views&color=0e75b6&style=flat" alt="MenilikEshetu"/> 
- 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MilaBooot&label=Profile%20views&color=0e75b6&style=flat" alt="MenilikEshetu"/>  
 </p>
+
+- 💼 any freelance work? do reach, [email](mailto:spyxmeni@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
 ###
 <div align="left">
